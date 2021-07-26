@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Anastasiia Moskvina (@AnaMoskvina).
 - 👀 I’m interested in Front-end development.
-- 🌱 I’m currently learning JavaScript and React.
+- 🌱 I’m currently learning JavaScript, React and NodeJS.
 - 📫 How to reach me: moskvinaanastasia@gmail.com, telegram: @AnaMoskvina
